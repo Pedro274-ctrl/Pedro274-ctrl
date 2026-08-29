@@ -69,4 +69,4 @@
 
 ---
 
-<p align="center"><i>Aberto a oportunidades de estágio em Desenvolvimento de Software / IA 🚀</i></p>
+<p align="center"><i>Aberto a oportunidades em Desenvolvimento de Software / IA 🚀</i></p>
