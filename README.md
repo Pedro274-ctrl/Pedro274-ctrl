@@ -20,7 +20,7 @@
 - 💻 Desenvolvedor full-stack em projetos reais via **KodiaTech** — sistemas de gestão, dashboards e automações para clientes
 - 🤖 Certificado em **Formação Completa em Inteligência Artificial** (LLMs, IA Generativa, Agentes, Deep Learning)
 - 🔐 Certificado em **Introdução à Cibersegurança** (Cisco) e **LGPD** (Fundação Bradesco)
-- 🎯 Buscando oportunidade de **estágio em Desenvolvimento de Software com foco em IA**
+- 🎯 Buscando oportunidade **em Desenvolvimento de Software com foco em IA**
 
 ---
 
