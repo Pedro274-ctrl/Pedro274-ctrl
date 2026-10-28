@@ -17,7 +17,7 @@
 - 🎓 Graduando em **Engenharia de Software** na Estácio (RJ)
 - ⚓ 1º Lugar no Curso de Formação de Fuzileiros Navais — disciplina e resiliência operacional aplicadas ao desenvolvimento
 - 🖥️ 4 anos administrando servidores **Linux Debian** e stack **LAMP** em ambiente crítico de TI (Marinha do Brasil), com 99% de uptime
-- 💻 Desenvolvedor full-stack em projetos reais via **KodiaTech** — sistemas de gestão, dashboards e automações para clientes
+- 💻 Desenvolvedor full-stack em projetos reais via **TFsolucoestecnologicas** — sistemas de gestão, dashboards e automações para clientes
 - 🤖 Certificado em **Formação Completa em Inteligência Artificial** (LLMs, IA Generativa, Agentes, Deep Learning)
 - 🔐 Certificado em **Introdução à Cibersegurança** (Cisco) e **LGPD** (Fundação Bradesco)
 - 🎯 Buscando oportunidade **em Desenvolvimento de Software com foco em IA**
