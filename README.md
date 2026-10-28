@@ -1,104 +1,105 @@
-<h1 align="center">Olá, eu sou o Pedro Henrique 👋</h1>
-<h3 align="center">Engenharia de Software - 4º Semestre | AI Engineer Intern | Full-Stack & Automação</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:38bdf8&height=180&section=header&text=Pedro%20Henrique&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20%7C%20Eng.%20Software%20%7C%20Rio%20de%20Janeiro&descAlignY=55&descAlign=50" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-henrique-costa-0a8648260" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:pedro274.phh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Pedro274-ctrl">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Engenharia+de+Software+-+4%C2%BA+Semestre;Full-Stack+%7C+Automa%C3%A7%C3%A3o+%7C+IA;Construindo+sistemas+que+economizam+horas+reais" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  Rio de Janeiro - RJ | Remoto | Engenharia de Software - Estácio (Conclusão Out/2028)
+  <a href="https://www.linkedin.com/in/pedro-henrique-costa-0a8648260"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pedro274.phh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Pedro274-ctrl"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Pedro274-ctrl&label=Profile%20views&color=0A66C2&style=for-the-badge" alt="views" />
 </p>
 
 ---
 
-### 🎯 Foco Atual
+### 👨‍💻 Sobre mim
 
-**Candidato ao Programa de Estágio GenAI iFood - Trilha AI Engineer (AI First / Toqan)**
+```javascript
+const pedro = {
+  formacao: "Eng. de Software - Estácio - 4º semestre - Out/2028",
+  experiencia: "Analista de Suporte de Sistemas - Marinha do Brasil - Mar/2022 até hoje",
+  especialidade: ["Sistemas de gestão", "Portais internos", "Automação", "RBAC & CRUD"],
+  infra: "Linux Debian, LAMP, DNS, DHCP, Samba, IredMail - 99% uptime",
+  conquista: "1º Lugar - Curso de Formação de Fuzileiros Navais",
+  foco: "Full-Stack com interesse em IA, n8n e agentes inteligentes"
+}
+```
 
-Construção e integração de soluções de software voltadas para produtos de IA. Operação de sistemas que sustentam ecossistema. Stack de interesse: Python, LLMs, RAG, Agentes de IA, LangChain, FastAPI, n8n, React.
-
-### 🚀 Sobre mim
-
-- 🎓 **Engenharia de Software - Estácio** - 4º Semestre - Início Out/2024 - Conclusão Out/2028 (elegível para estágio Jul/2027 a Jan/2029)
-- ⚓ **Marinha do Brasil - Analista de Suporte de Sistemas | Infra & Backend | Mar/2022 - Atual (4a5m)** - Administração de servidores Linux Debian, stack LAMP, DHCP, DNS, iptables, Samba 4, Squid, FTP, IredMail. Backend PHP integrando APIs de Email/WhatsApp. 99% uptime em ambiente crítico.
-- 🥇 **1º Lugar - Curso de Formação de Fuzileiros Navais** - disciplina, resiliência operacional e liderança
-- 💻 **Desenvolvedor Full-Stack - TF Soluções Tecnológicas** - Sistemas de gestão, portais internos, dashboards e automações para clientes reais
-- 🤖 **Formação Completa em IA 2026 (Udemy - Mar/2026)** - LLMs, Prompt Engineering, Orquestração de Agentes, RAG
-- 🔧 **Vibe Coding + Automação:** Cursor, v0, Bolt, Replit, integração de APIs REST + n8n / Make / Zapier integrando IA (em finalização)
-
----
-
-### 🛠 Stack principal
-
-**AI & Backend - Foco iFood GenAI**
-[Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-[OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
-[n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-[FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-[Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-**Frontend & Backend**
-[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-[PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-[React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-[Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-
-**Banco & Infra**
-[PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-[MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-[SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-[Linux](https://img.shields.io/badge/Linux_Debian-A81D33?style=flat&logo=debian&logoColor=white)
-[Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- 🔭 Hoje trabalho em projetos reais pela **TF Soluções Tecnológicas**
+- 🌱 Estudando: **Python + OpenAI API + n8n + RAG** para evoluir meus sistemas
+- ⚓ 4 anos operando ambiente crítico na Marinha - levo disciplina operacional pro código
 
 ---
 
-### 📌 Projetos em destaque
+### 🛠️ Stack
 
-> Projetos de construção e integração de soluções - portal interno, automação de horas reais e base para agentes de IA
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,php,react,nodejs,express,mysql,postgres,sqlite,linux,git,docker&perline=6" />
+  </a>
+</p>
 
-**[Barra Space Center](https://github.com/Pedro274-ctrl/barra-space-center)** — Site institucional + painel administrativo com RBAC (gerência, operador, padrão) e diretório dinâmico de condôminos. CRUD completo, autenticação com hash, filtros, exportação de relatórios, validação server-side e envio SMTP com PHPMailer. Arquitetura preparada para evolução para agente RAG.
-`PHP | MySQL | PDO | RBAC | PHPMailer | Composer`
-
-**[Banca de Chopp - Sistema de Comandas](https://github.com/Pedro274-ctrl/banca-de-Chopp)** — Sistema de comanda digital para feira de rua. Automação de vendas, estoque e pedidos. Dashboard interno que elimina controle manual em planilha. Portal interno deployado.
-`React | Node.js | SQLite | REST API | Git`
-
-**[Agente Toqan - RAG Exemplo](https://github.com/Pedro274-ctrl)** *(em desenvolvimento)* — Agente de consulta ao diretório de empresas usando RAG. Fluxo: Webhook -> OpenAI API -> Busca no banco -> Resposta automática. Mesmo padrão de orquestração da plataforma Toqan iFood. Em construção para portfólio GenAI.
-`Python | OpenAI API | RAG | LangChain | FastAPI`
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHPMailer-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/PDO-4479A1?style=flat" />
+  <img src="https://img.shields.io/badge/RBAC-000000?style=flat" />
+  <img src="https://img.shields.io/badge/REST_API-000000?style=flat" />
+</p>
 
 ---
 
-### 🧠 O que eu entrego - Trilha AI Engineer
+### 🚀 Projetos em destaque
 
-- **Construção de ferramentas funcionais do zero:** Agentes, dashboards e portais internos deployados que economizam horas reais (não protótipos)
-- **Integração de soluções:** Frontend React + Backend Node/PHP + Banco (SQLite/PostgreSQL/MySQL) + APIs REST + Automação n8n + LLM
-- **Operação em ambiente crítico:** 4 anos garantindo 99% uptime em servidores Debian/LAMP na Marinha - experiência direta com sustentação de ecossistema
+<details open>
+<summary><b>📁 Clique para ver os projetos</b></summary>
+<br>
 
-**Ferramentas que uso hoje:**
-Prompt Engineering e orquestração de agentes | Vibe coding com Cursor/v0/Bolt/Replit + integração de APIs | n8n/Make/Zapier integrando IA
+| Projeto | O que faz | Stack | Link |
+|---|---|---|---|
+| **Barra Space Center** | Site institucional + painel admin com RBAC (gerência/operador/padrão), diretório dinâmico de empresas com busca, ordenação, filtros, exportação e SMTP | PHP, MySQL, PDO, RBAC, JS | [Repo](https://github.com/Pedro274-ctrl/barra-space-center) |
+| **Banca de Chopp - Sistema de Comandas** | Sistema de comanda digital que automatiza vendas, estoque e pedidos em feira - elimina planilha | React, Node, SQLite, REST | [Repo](https://github.com/Pedro274-ctrl/banca-de-Chopp) |
+| **Site TF Soluções** | Site institucional da TF com formulário seguro e envio SMTP | PHP, MySQL, PHPMailer, Composer | [Repo](https://github.com/274-ctrl/site-tf-solucoes) |
+
+</details>
+
+> 💡 Todos são sistemas deployados que economizam horas reais de gestão, não apenas landing pages.
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro274-ctrl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro274-ctrl&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro274-ctrl&theme=tokyonight" />
+</p>
+
+---
 
 ### 📜 Certificações
 
+<details>
+<summary><b>🎓 Ver certificações</b></summary>
+
 | Certificado | Instituição | Ano |
 |---|---|---|
-| Formação Completa em Inteligência Artificial (LLMs, RAG, Agentes) | Udemy | 2026 |
-| Automação de Sistemas | IFRS - Campus Sertão | 2025 |
+| Formação Completa em Inteligência Artificial | Udemy | 2026 |
+| Automação de Sistemas | IFRS | 2025 |
 | Servidores Linux Debian (LAMP, DNS, FTP, E-mail) | Udemy | 2024 |
 | Introduction to Cybersecurity | Cisco | 2024 |
-| Lei Geral de Proteção de Dados (LGPD) | Fundação Bradesco | 2024 |
-| Liderança e Trabalho em Equipe | IFRS - Campus Sertão | 2024 |
-| Full-Stack Developer | KodiaTech | - |
+| LGPD | Fundação Bradesco | 2024 |
+| Liderança e Trabalho em Equipe | IFRS | 2024 |
+
+</details>
 
 ---
 
 <p align="center">
-  <b>AI Engineer Intern | Python | LLMs | RAG | Agentes de IA | n8n | React | Node | PHP</b><br/>
-  <i>Aberto a oportunidades em Desenvolvimento de Software com foco em IA 🚀</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:38bdf8&height=100&section=footer&text=Aberto%20a%20oportunidades%20Full-Stack%20%7C%20IA&fontSize=16&fontColor=fff&animation=fadeIn" />
 </p>
