@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:38bdf8&height=180&section=header&text=Pedro%20Henrique&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20%7C%20Eng.%20Software%20%7C%20Rio%20de%20Janeiro&descAlignY=55&descAlign=50" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Engenharia+de+Software+-+4%C2%BA+Semestre;Full-Stack+%7C+Automa%C3%A7%C3%A3o+%7C+IA;Desenvolvendo+sistemas+que+economizam+horas+reais" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Engenharia+de+Software+-+;Full-Stack+%7C+Automa%C3%A7%C3%A3o+%7C+IA;Criando+sistemas+que+economizam+horas+reais" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
