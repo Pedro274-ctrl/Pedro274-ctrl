@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:38bdf8&height=160&section=header&text=Pedro%20Henrique&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Eng.%20Software%20-%204%C2%BA%20Sem%20%7C%20Full-Stack%20%7C%20Automa%C3%A7%C3%A3o&descAlignY=55&descAlign=50" />
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=550&lines=Construo+ferramentas+que+economizam+horas;Portais+internos+%2B+automa%C3%A7%C3%A3o+%2B+IA;Rio+de+Janeiro+-+Remoto" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=550&lines=Construo+ferramentas+que+economizam+horas;Full-Stack+%2B+automa%C3%A7%C3%A3o+%2B+IA;Rio+de+Janeiro+-+Remoto" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
