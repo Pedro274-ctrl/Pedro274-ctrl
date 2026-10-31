@@ -58,7 +58,7 @@ Ferramentas internas deployadas, não protótipos. Backend + frontend + banco + 
 
 ### Projetos
 
-**[Agente - RAG no Diretório do Barra Space Center](https://github.com/Pedro274-ctrl/agente-toqan-ifood-exemplo)**
+**[Agente - RAG no Diretório do Barra Space Center](https://github.com/Pedro274-ctrl/agente-diretorio-barra-space)**
 Camada de IA sobre o diretório de empresas do Barra Space Center, no padrão de orquestração do Toqan (iFood): Webhook → LLM → Banco → Resposta. Recebe perguntas em linguagem natural ("quais empresas de tecnologia estão ativas?"), busca o contexto no MySQL e gera a resposta com a OpenAI API, restrita ao que existe no diretório e com as fontes (IDs) e o tempo de resposta. Validação com Pydantic, consultas parametrizadas e chaves em `.env`. Próximos passos: busca vetorial com embeddings, workflow n8n com Email/WhatsApp e Docker.
 `Python | FastAPI | OpenAI API | RAG | MySQL | Pydantic | REST API`
 
