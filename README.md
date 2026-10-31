@@ -60,7 +60,7 @@ Ferramentas internas deployadas, não protótipos. Backend + frontend + banco + 
 AI Agent no padrão Toqan (iFood / Prosus) que responde perguntas operacionais de restaurantes em linguagem natural. O LLM decide qual tool acionar (vendas, cancelamentos, avaliações, gargalos), consulta o banco e devolve resposta com insight e ação. API FastAPI com endpoints `/chat` e `/health`, manifesto `toqan.yaml`, modo fallback sem chave de API e 100% dados fictícios (LGPD).
 `Python | FastAPI | Function Calling | OpenAI / Anthropic API | SQLite | Pandas | pytest`
 
-**[Barra Space Center](https://github.com/Pedro274-ctrl/barra-space-center)**
+**[Barra Space Center](https://github.com/Pedro274-ctrl/barraspace)**
 Site institucional + painel admin com RBAC (gerência, operador, padrão). Diretório dinâmico com busca, ordenação, filtros e exportação. Autenticação com hash, PDO parametrizado, validação server-side e SMTP.
 `PHP | MySQL | PDO | RBAC | JavaScript | Composer`
 
@@ -68,7 +68,7 @@ Site institucional + painel admin com RBAC (gerência, operador, padrão). Diret
 Sistema de comanda digital para feira de rua. Gestão de vendas, estoque e pedidos com dashboard interno. Automação que elimina planilha manual.
 `React | Node.js | SQLite | REST API`
 
-**[Site TF Soluções](https://github.com/274-ctrl/site-tf-solucoes)**
+**[Site TF Soluções](https://github.com/Pedro274-ctrl/site-tf-solucoes)**
 Site institucional da TF Soluções Tecnológicas com formulário seguro e envio SMTP.
 `PHP | MySQL | PHPMailer | HTML/CSS/JS`
 
