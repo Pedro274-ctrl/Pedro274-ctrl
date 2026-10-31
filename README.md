@@ -18,6 +18,7 @@ const pedro = {
   trabalho: "Analista de Suporte de Sistemas - Marinha - Mar/2022 até hoje",
   infra: "Linux Debian, LAMP, DNS, DHCP, iptables, Samba 4, Squid, FTP, IredMail - 99% uptime",
   código: "PHP + APIs Email/WhatsApp, MySQL, PDO, RBAC, React, Node, REST",
+  ia: "Python, FastAPI, OpenAI API, RAG, Prompt Engineering",
   conquista: "1º Lugar - Formação de Fuzileiros Navais"
 }
 ```
@@ -48,6 +49,7 @@ Ferramentas internas deployadas, não protótipos. Backend + frontend + banco + 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white" />
   <img src="https://img.shields.io/badge/PDO-4479A1?style=flat" />
   <img src="https://img.shields.io/badge/PHPMailer-777BB4?style=flat" />
 </p>
@@ -56,9 +58,9 @@ Ferramentas internas deployadas, não protótipos. Backend + frontend + banco + 
 
 ### Projetos
 
-**[Agente Toqan iFood - AI Agent com Function Calling](https://github.com/Pedro274-ctrl/agente-toqan-ifood-exemplo)**
-AI Agent no padrão Toqan (iFood / Prosus) que responde perguntas operacionais de restaurantes em linguagem natural. O LLM decide qual tool acionar (vendas, cancelamentos, avaliações, gargalos), consulta o banco e devolve resposta com insight e ação. API FastAPI com endpoints `/chat` e `/health`, manifesto `toqan.yaml`, modo fallback sem chave de API e 100% dados fictícios (LGPD).
-`Python | FastAPI | Function Calling | OpenAI / Anthropic API | SQLite | Pandas | pytest`
+**[Agente Toqan - RAG no Diretório do Barra Space Center](https://github.com/Pedro274-ctrl/agente-toqan-ifood-exemplo)**
+Camada de IA sobre o diretório de empresas do Barra Space Center, no padrão de orquestração do Toqan (iFood): Webhook → LLM → Banco → Resposta. Recebe perguntas em linguagem natural ("quais empresas de tecnologia estão ativas?"), busca o contexto no MySQL e gera a resposta com a OpenAI API, restrita ao que existe no diretório e com as fontes (IDs) e o tempo de resposta. Validação com Pydantic, consultas parametrizadas e chaves em `.env`. Próximos passos: busca vetorial com embeddings, workflow n8n com Email/WhatsApp e Docker.
+`Python | FastAPI | OpenAI API | RAG | MySQL | Pydantic | REST API`
 
 **[Barra Space Center](https://github.com/Pedro274-ctrl/barraspace)**
 Site institucional + painel admin com RBAC (gerência, operador, padrão). Diretório dinâmico com busca, ordenação, filtros e exportação. Autenticação com hash, PDO parametrizado, validação server-side e SMTP.
