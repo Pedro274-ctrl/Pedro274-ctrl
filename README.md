@@ -42,7 +42,7 @@ Ferramentas internas deployadas, não protótipos. Backend + frontend + banco + 
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,php,react,nodejs,express,mysql,postgres,sqlite,linux,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,js,php,react,nodejs,express,mysql,postgres,sqlite,linux,git&perline=8" />
 </p>
 
 <p align="center">
@@ -55,6 +55,10 @@ Ferramentas internas deployadas, não protótipos. Backend + frontend + banco + 
 ---
 
 ### Projetos
+
+**[Agente Toqan iFood - AI Agent com Function Calling](https://github.com/Pedro274-ctrl/agente-toqan-ifood-exemplo)**
+AI Agent no padrão Toqan (iFood / Prosus) que responde perguntas operacionais de restaurantes em linguagem natural. O LLM decide qual tool acionar (vendas, cancelamentos, avaliações, gargalos), consulta o banco e devolve resposta com insight e ação. API FastAPI com endpoints `/chat` e `/health`, manifesto `toqan.yaml`, modo fallback sem chave de API e 100% dados fictícios (LGPD).
+`Python | FastAPI | Function Calling | OpenAI / Anthropic API | SQLite | Pandas | pytest`
 
 **[Barra Space Center](https://github.com/Pedro274-ctrl/barra-space-center)**
 Site institucional + painel admin com RBAC (gerência, operador, padrão). Diretório dinâmico com busca, ordenação, filtros e exportação. Autenticação com hash, PDO parametrizado, validação server-side e SMTP.
